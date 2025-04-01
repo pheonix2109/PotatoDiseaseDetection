@@ -1,5 +1,5 @@
 
-Potato Disease Detection
+#Potato Disease Detection
 
 
 GOAL:
